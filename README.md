@@ -24,4 +24,4 @@ Follow these steps to set up the project on your local machine:
 In your project folder, run the following command to initialize a new Node.js project:
 
 ```bash
-npm init
+npm run devs
